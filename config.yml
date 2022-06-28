@@ -1,7 +1,7 @@
 baseURL: "https://mzembron2.github.io"
 title: ProjectsSite
 paginate: 5
-theme: PaperMod
+theme: papermod
 
 enableRobotsTXT: true
 buildDrafts: false
