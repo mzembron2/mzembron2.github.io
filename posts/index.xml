@@ -10,12 +10,12 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mzembron2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First project</title>
-      <link>https://mzembron2.github.io/posts/my-first-post/</link>
+      <title>Evolutionary Algorithm using: Python &#43; Streamlit &#43; Padanas &#43; NumPy</title>
+      <link>https://mzembron2.github.io/posts/ea-application/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mzembron2.github.io/posts/my-first-post/</guid>
-      <description>link to my project [see](https://github.com/mzembron/ea_fill_warehouse)</description>
+      <guid>https://mzembron2.github.io/posts/ea-application/</guid>
+      <description>Evolutionary algorithm for optimization of occupated space in warehouse, with respect for path to each stored element </description>
     </item>
     
   </channel>
