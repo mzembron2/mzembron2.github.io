@@ -36,7 +36,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
+Some simple change
 ![photo](https://github.com/mzembron2/ea_warehouse/blob/c107448c337dc526544d8600bfc40f51521d5ae3/docs/images/small_output_warehouse.png?raw=true)
 
 [Link to project repository](https://github.com/mzembron2/ea_warehouse)
