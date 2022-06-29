@@ -10,12 +10,12 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mzembron2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Evolutionary Algorithm using: Python &#43; Streamlit &#43; Padanas &#43; NumPy</title>
+      <title>Evolutionary Algorithm using: Python 🐍 &#43; Streamlit &#43; Padanas 🐼 &#43; NumPy</title>
       <link>https://mzembron2.github.io/posts/ea-application/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mzembron2.github.io/posts/ea-application/</guid>
-      <description>Evolutionary algorithm for optimization of occupated space in warehouse, with respect for path to each stored element </description>
+      <description>Evolutionary algorithm for optimization of occupated space in warehouse</description>
     </item>
     
   </channel>
