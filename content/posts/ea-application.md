@@ -1,5 +1,6 @@
 ---
-title: "Evolutionary Algorithm using: Python + Streamlit + Padanas + NumPy"
+title: "Evolutionary Algorithm using: Python \U0001F40D + Streamlit + Padanas \U0001F43C + NumPy"
+summary: "Evolutionary algorithm for optimization of occupated space in warehouse"
 # date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -11,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Evolutionary algorithm for optimization of occupated space in warehouse, with respect for path to each stored element "
+# description: "Goal of this project was to implement evolutionary algorithm  "
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -36,7 +37,18 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Some simple change
+## Intro
+
+This project provides the implementation of an evolutionary algorithm for optimization of occupated space in the warehouse. During the evolution, the algorithm considers whether there is access to each item stored in the warehouse - if not, a penalty is applied to the score.
+
+## Tools used 
+
+The whole application is written in python. For data-wrangling necessary were: NumPy and Pandas. Easy-to-use GUI was created with help of the Streamlit library.
+
+## The way it works 
+
+## Example solution:
 ![photo](https://github.com/mzembron2/ea_warehouse/blob/c107448c337dc526544d8600bfc40f51521d5ae3/docs/images/small_output_warehouse.png?raw=true)
 
-[Link to project repository](https://github.com/mzembron2/ea_warehouse)
+## Link to repository
+You can find repository of this project under this [link](https://github.com/mzembron2/ea_warehouse).

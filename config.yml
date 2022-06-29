@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, papermod]
+  keywords: [Blog, Portfolio, PaperMod]
   author: Mateusz Zembroń
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -71,14 +71,17 @@ params:
       - name: Tags
         url: tags
 
+
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome
+    Content: "My name is Mateusz Zembroń and below are listed some projects I've been working on"
 
   socialIcons:
     - name: github
       url: "https://github.com/mzembron"
+    - name: github
+      url: "https://github.com/mzembron2"
 
   analytics:
     google:
