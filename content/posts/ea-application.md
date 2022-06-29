@@ -1,5 +1,5 @@
 ---
-title: "First project"
+title: "Evolutionary Algorithm using: Python + Streamlit + Padanas + NumPy"
 # date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "link to my project [see](https://github.com/mzembron/ea_fill_warehouse)"
+description: "Evolutionary algorithm for optimization of occupated space in warehouse, with respect for path to each stored element "
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -32,7 +32,11 @@ cover:
     hidden: true # only hide on current single page
 editPost:
     enabled: false
-    # URL: "https://github.com/<path_to_repo>/content"
-    # Text: "Suggest Changes" # edit text
-    # appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/mzembron2/mzembron2.github.io/blob/main/content/"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
+
+![photo](https://github.com/mzembron2/ea_warehouse/blob/c107448c337dc526544d8600bfc40f51521d5ae3/docs/images/small_output_warehouse.png?raw=true)
+
+[Link to project repository](https://github.com/mzembron2/ea_warehouse)
