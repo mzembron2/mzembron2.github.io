@@ -45,7 +45,7 @@ This project is a simple flashcard application that helps you learn anything usi
 
 ## Tools used 
 
-The whole application is written in C++11. Nearly every part of the application is made with the help of the Qt5 framework(from GUI to connecting to the database). All flashcards data is stored in the SQLite database.
+The whole application is written in C++11. Nearly every part is made with the help of the Qt5 framework(from GUI to connecting to the database). All flashcards data is stored in the SQLite database.
 
 ## GUI screenshots
 

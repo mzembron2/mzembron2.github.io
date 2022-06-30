@@ -45,8 +45,6 @@ This project provides the implementation of an evolutionary algorithm for optimi
 
 The whole application is written in python. For data-wrangling necessary were: NumPy and Pandas. Easy-to-use GUI was created with help of the Streamlit library.
 
-## The way it works 
-
 ## Example solution:
 ![photo](https://github.com/mzembron2/ea_warehouse/blob/c107448c337dc526544d8600bfc40f51521d5ae3/docs/images/small_output_warehouse.png?raw=true)
 
