@@ -1,5 +1,5 @@
 ---
-title: "Evolutionary Algorithm using: Python \U0001F40D + Streamlit + Padanas \U0001F43C + NumPy"
+title: "Evolutionary Algorithm using: Python \U0001F40D + Streamlit + Pandas \U0001F43C + NumPy"
 summary: "Evolutionary algorithm for optimization of occupated space in warehouse"
 # date: 2020-09-15T11:30:03+00:00
 # weight: 1
