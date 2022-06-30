@@ -1,6 +1,6 @@
 ---
-title: "Evolutionary Algorithm, using: Python \U0001F40D + Streamlit + Pandas \U0001F43C + NumPy"
-summary: "Evolutionary algorithm for optimization of occupated space in warehouse"
+title: "Decison tree classifier, using: Python \U0001F40D + sklearn + Pandas \U0001F43C + NumPy"
+summary: "Decison tree classifier with missing values handling "
 # date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -12,6 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
+enableEmoji: true
 # description: "Goal of this project was to implement evolutionary algorithm  "
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
@@ -37,18 +38,15 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+
 ## Intro
 
-This project provides the implementation of an evolutionary algorithm for optimization of occupated space in the warehouse. During the evolution, the algorithm considers whether there is access to each item stored in the warehouse - if not, a penalty is applied to the score.
+This project provides the implementation of a decision tree classifier with missing values handling, as described in [Pawel Cichosz's book](http://elektron.elka.pw.edu.pl/~pcichosz/SU/).
 
 ## Tools used 
 
-The whole application is written in python. For data-wrangling necessary were: NumPy and Pandas. Easy-to-use GUI was created with help of the Streamlit library.
-
-## The way it works 
-
-## Example solution:
-![photo](https://github.com/mzembron2/ea_warehouse/blob/c107448c337dc526544d8600bfc40f51521d5ae3/docs/images/small_output_warehouse.png?raw=true)
+The program is written using python. For data-wrangling necessary were: NumPy and Pandas. To test implemented classifier, the scikit-learn library was used.
 
 ## Link to repository
-You can find repository of this project under this [link](https://github.com/mzembron2/ea_warehouse).
+You can find repository of this project under this [link](https://github.com/mzembron2/decision_tree_missing_values).

@@ -1,5 +1,5 @@
 ---
-title: "Flashcard app using: C++11 + Qt5 \U0001F4DD + SQLite \U0001F4D3 "
+title: "Flashcard app, using: C++11 + Qt5 \U0001F4DD + SQLite \U0001F4D3 "
 summary: "Flashcard app using spaced repetition method"
 # date: 2020-09-15T11:30:03+00:00
 # weight: 1
