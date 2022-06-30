@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mzembron2.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Evolutionary Algorithm using: Python 🐍 &#43; Streamlit &#43; Pandas 🐼 &#43; NumPy</title>
+      <title>Decison tree classifier, using: Python 🐍 &#43; sklearn &#43; Pandas 🐼 &#43; NumPy</title>
+      <link>https://mzembron2.github.io/posts/decision-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mzembron2.github.io/posts/decision-tree/</guid>
+      <description>Decison tree classifier with missing values handling</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Algorithm, using: Python 🐍 &#43; Streamlit &#43; Pandas 🐼 &#43; NumPy</title>
       <link>https://mzembron2.github.io/posts/ea-application/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -19,7 +28,7 @@
     </item>
     
     <item>
-      <title>Flashcard app using: C&#43;&#43;11 &#43; Qt5 📝 &#43; SQLite 📓 </title>
+      <title>Flashcard app, using: C&#43;&#43;11 &#43; Qt5 📝 &#43; SQLite 📓 </title>
       <link>https://mzembron2.github.io/posts/spaced-repetition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
